@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!, I'm Şafak! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
+<h1 align="center"> Hi!, I'm Şafak!
 <h3 align="center">An excited Computer Engineering student on a journey to become a skilled blockchain developer</h3>
 
 -  I'm passionate about **decentralized technologies** and eager to learn more about **smart contract development**, **blockchain security**, and **building decentralized applications**.
