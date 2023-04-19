@@ -1,17 +1,15 @@
-<h1 align="center"> Hi!, I'm Şafak!
-<h3 align="center">An excited Computer Engineering student on a journey to become a skilled blockchain developer</h3>
+# Hi there! 👋
 
--  I'm passionate about **decentralized technologies** and eager to learn more about **smart contract development**, **blockchain security**, and **building decentralized applications**.
+## Introduction
+Welcome to my Github profile! My name is Şafak, and I'm currently studying Computer Science and Engineering at Akdeniz University. I have a passion for programming and I love exploring new technologies.
 
-- I’m currently learning **Solidity** and working on the **BNB Chain Practicum**.
+## Skills
+Here are some of the skills I've been developing:
 
-- I'm always looking for opportunities to gain hands-on experience and contribute to the blockchain community.
+- **Programming languages:** HTML, CSS, JavaScript, PHP, Java
+- **Frameworks/Libraries:** React, Bootstrap, Laravel, .NET Core
+- **Tools/Platforms:** Git, VS Code
+- **Analytics and tracking:** Basic knowledge of Google Analytics and Google Tag Manager
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/Twitter-ff69b4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/safakbarutcu)
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safakbarutcu/)
-[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barutcusafak@gmail.com)
-  
-</div>
+## Goals
+As an entry-level developer, my goal is to work with a team that can help me grow as a programmer. I'm highly motivated, eager to learn, and excited about taking on challenging projects. Above all, I'm looking for a company that values collaboration, creativity, and innovation.
